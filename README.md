@@ -1,1 +1,1 @@
-# Solar-System-1
+# PRO-C146-Student-Activity
